@@ -5,6 +5,6 @@ It consists of a collection of cells which, based on a few mathematical rules, c
 
 The game is written in *Turbo C++* (🤢).
 
-### Contributors: \
+### Contributors: 
 [Sagnik Dey](https://github.com/SagnikDey92) \
 Rohan Soneja
